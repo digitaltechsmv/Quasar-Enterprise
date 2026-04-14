@@ -1,69 +1,79 @@
+# 🌌 Krest OS (KOS) - Sovereign Infrastructure
+**Powered by Digital Tech | Soluções Empresariais de Elite**
+
 ![Status](https://img.shields.io/badge/Status-Sovereign-gold?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Seguran%C3%A7a_Ativa-green?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Quasar_Guardian_Inviol%C3%A1vel-red?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Krest_Guardian_Inviol%C3%A1vel-red?style=for-the-badge)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256_Military_Grade-blue?style=for-the-badge)
 ![Network](https://img.shields.io/badge/Network-Redund%C3%A2ncia_Total_Zero_Downtime-orange?style=for-the-badge)
 ![Geolocation](https://img.shields.io/badge/Tracking-Geolocation_Active-orange?style=for-the-badge)
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25_Garantido-green?style=for-the-badge)
 
----
-# 🌌 Quasar Enterprise (QES) - Sovereign Infrastructure
-**Powered by Digital Tech | Soluções Empresariais**
-<img width="1000" height="558" alt="walpaper-quasar" src="https://github.com/user-attachments/assets/466fed8d-1e2f-4221-98c9-b0298cde7eda" />
+<p align="center">
+  <img width="1000" alt="walpaper-krest-os" src="https://github.com/user-attachments/assets/3dc79fa1-c87d-4704-b0c4-3d8294baed66">
+</p>
 
+O **Krest OS (KOS)** é a resposta definitiva para empresas que buscam **Soberania Digital**. Desenvolvido pela **Digital Tech**, o sistema funde segurança de nível militar com resiliência de hardware, eliminando pontos únicos de falha e garantindo a continuidade de operações críticas onde o custo do *downtime* é incalculável.
 
+## 🚀 O Diferencial: A Armada Krest
 
-O **Quasar Enterprise (QES)** não é apenas um sistema operacional; é uma **Armada de Segurança** e uma plataforma de infraestrutura baseada em **openSUSE Leap**. Desenvolvido pela **Digital Tech**, o QES foi projetado para blindar operações de saúde (clínicas/hospitais) e varejo (PDV/mercados) contra falhas de hardware e ameaças cibernéticas.
+Um ecossistema de módulos integrados que operam sob **Soberania de Kernel**, eliminando a fragilidade de aplicações de terceiros.
 
----
+### 1. Inteligência de Operação
+* **📊 Krest Analytics:** Motor de BI para visualização de métricas e suporte à decisão executiva.
+* **👁️ Krest Watchtower:** Sentinela preditivo que monitora a saúde dos serviços e a integridade do hardware 24/7.
+* **📡 Krest Telemetry:** Telemetria profunda em tempo real, fornecendo visibilidade total sobre o tráfego e ativos da rede.
+* **📟 Krest Panel:** Centro de comando administrativo para gestão de recursos e orquestração de microsserviços.
 
-## 🚀 O Diferencial: A Armada (Ecossistema Quasar)
+### 2. Defesa e Ofuscação de Rede
+* **🛡️ Krest Guard:** Camada de defesa ativa que intercepta e neutraliza vetores de ataque diretamente no Kernel.
+* **🚫 Krest Crowd:** Inteligência de defesa coletiva para bloqueio dinâmico de ameaças globais em tempo real.
+* **🌪️ Krest Vortex:** Orquestrador inteligente para malhas de rede resilientes e alta disponibilidade.
+* **👻 Krest Ghost-Hop:** Túnel de acesso criptografado e invisível (SDN), protegendo o canal de suporte contra interceptações.
+* **🗝️ Krest Key:** Validação criptográfica RSA-4096 para controle rigoroso de licenciamento e acessos.
 
-Nossa arquitetura substitui a complexidade de múltiplos serviços fragmentados por módulos integrados que operam sob **soberania de Kernel**. Substituímos os nomes técnicos por uma identidade única de ecossistema.
+### 3. Custódia e Produtividade Soberana
+* **☁️ Krest Cloud:** Infraestrutura privada de armazenamento e colaboração, livre de vigilância e custos de nuvens públicas.
+* **📝 Krest Docs:** Engine profissional para co-autoria de documentos e planilhas com foco em sigilo de dados.
+* **🔐 Krest Vault:** Cofre de alta segurança (Padrão AES-256) para a custódia de segredos e credenciais críticas.
 
-### 1. Núcleos de Inteligência e Monitoramento
-* **📡 Quasar Telemetry:** Diagnóstico de precisão em tempo real para saúde do hardware e rede.
-* **👁️ Quasar Watchtower:** Monitoramento proativo de prontidão de serviços e estabilidade de hardware.
-* **📊 Quasar Analytics:** Central de inteligência de dados para dashboards de decisão.
-* **📟 Quasar Panel:** Gestão administrativa nativa para controle de discos e logs via navegador.
+  
+## 🏗️ Engenharia de Resiliência (L3 Specialist)
 
-### 2. Segurança e Redes Invisíveis
-* **🛡️ Quasar Guard:** Proteção de baixo nível e soberania de Kernel contra ameaças externas.
-* **🚫 Quasar Crowd:** Defesa colaborativa ativa para bloqueio instantâneo de intrusões.
-* **🌪️ Quasar Vortex:** Orquestrador de rede para conexões redundantes e seguras.
-* **👻 Quasar Ghost-Hop:** Camada de acesso remoto invisível para suporte técnico de elite.
-* **🗝️ Quasar Key:** Criptografia RSA-4096 para licenciamento e soberania de acesso.
+O Krest OS utiliza o **Protocolo Krest Shadow**, uma arquitetura de alta disponibilidade que automatiza a recuperação de desastres.
 
-### 3. Produtividade e Soberania de Dados
-* **☁️ Quasar Cloud:** Portal central de colaboração e arquivos com soberania total de dados.
-* **📝 Quasar Docs:** Edição profissional de documentos e planilhas em tempo real (compatibilidade Total).
-* **🔐 Quasar Vault:** Cofre de segurança para gestão de credenciais e ativos digitais.
-
----
-
-## 🏗️ Arquitetura de Ápice (L3 Specialist)
-
-O sistema opera sob o **Protocolo Shadow-4**, garantindo redundância quádrupla para serviços críticos.
-
-* **Imutabilidade de Sistema:** Operação em modo *Read-Only* para impedir alterações não autorizadas.
-* **Auto-Healing (Auto-Cura):** Substituição automática de módulos instáveis por cópias dormentes íntegras.
-* **Q-Power:** Inteligência energética que protege o banco de dados e hardware em quedas de energia.
-* **Camuflagem Operacional:** Camada administrativa oculta ao usuário final, garantindo integridade da Armada.
+* **Núcleo Imutável:** Operação em modo *Atomic Read-Only*. Impede a instalação de malware persistente e garante que o sistema permaneça íntegro, independentemente da ação do usuário.
+* **Auto-Healing:** Mecanismo inteligente de substituição de processos instáveis por instâncias dormentes saudáveis, sem interrupção do serviço.
+* **K-Power:** Gestão energética ativa que sincroniza o hardware com o banco de dados para evitar corrupção de arquivos em quedas de energia.
+* **Proteção Camuflada:** Interface administrativa isolada e oculta, minimizando a superfície de ataque para usuários finais e invasores.
 
 ---
 
-## 🤝 Parcerias e Interoperabilidade
+## 💻 Requisitos Técnicos (Dimensionamento)
 
-O Quasar Enterprise atua como o **Host de Alta Performance** para soluções verticais:
-* **Saúde:** Infraestrutura blindada para softwares médicos e gestão de clínicas.
-* **Varejo:** Servidor de retaguarda imutável para automação comercial e PDV.
+| Perfil de Operação | CPU (Cores) | RAM (Rec.) | Armazenamento | Capacidade |
+| :--- | :---: | :---: | :---: | :--- |
+| **Krest Edge** | 2 Cores | 4GB | 20GB SSD | Gateway de Rede + Defesa Guard |
+| **Krest Pro** | 4 Cores | 12GB | 50GB SSD | Redes + Cloud + Vault + Docs |
+| **Krest Enterprise** | 8 Cores | 32GB | 100GB+ NVMe | Armada Completa + Shadow Protocol |
+
+## 🤝 Verticais de Atuação (Elite Use Cases)
+
+O Krest OS é o host definitivo para ambientes onde a integridade dos dados e a disponibilidade total são mandatórias:
+
+* **🏥 Saúde & Clínicas:** Blindagem de prontuários eletrônicos e sistemas de recepção. O **Krest Guard** garante conformidade com normas de proteção de dados, evitando sequestros digitais (Ransomware).
+* **🛒 Varejo & Automação:** Servidor de retaguarda imutável para mercados e lojas. Foco em "Zero Downtime" no PDV, garantindo que as vendas nunca parem, mesmo com instabilidades de rede.
+* **⚖️ Jurídico & Compliance:** Custódia segura de processos e evidências digitais. O **Krest Vault** e a criptografia do sistema garantem que documentos sensíveis permaneçam inacessíveis a terceiros.
+* **🏭 Indústria 4.0 & IoT:** Edge Computing para monitoramento de sensores e linhas de produção. O **Krest Telemetry** e a estabilidade Bare-Metal suportam ambientes hostis e operações 24/7.
+* **🏫 Educação & Institucional:** Repositório local de ativos educacionais e gestão escolar. O **Krest Cloud** e **Krest Docs** permitem colaboração segura entre docentes sem exposição a nuvens públicas.
+* **🛡️ Monitoramento & VMS:** Servidor de alta performance para gestão de câmeras IP e gravação de vídeo. Otimizado para alta carga de escrita e estabilidade de stream.
 
 ---
 
-## 📝 Sobre o Desenvolvedor
+## 📝 Sobre o Engenheiro Chefe
 **João Vinícius C. Santos**
 *Analista L3 | Network & Linux Specialist*
-*Scrum | DevOps | Docker | Cisco | MikroTik*
+*Expertise: Scrum | DevOps | Docker | Cisco | MikroTik*
 
 ---
 © 2026 Digital Tech - Propriedade Intelectual Garantida.
